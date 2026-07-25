@@ -82,31 +82,31 @@ The project evaluates the model using:
 
 ### Dataset Sample
 
-![Dataset](images/Dataset download.png)
+(images/Dataset download.png)
 
 ### CNN Classes
 
-![Classes](images/classes.png)
+(images/classes.png)
 
 ### Feature Maps
 
-![Feature Maps](images/feature map.png)
+(images/feature map.png)
 
 ### Training Accuracy
 
-![Training Accuracy](images/Accuracy with augmentation.png)
+(images/Accuracy with augmentation.png)
 
 ### Test Accuracy
 
-![Test Accuracy](images/test accuracy.png)
+(images/test accuracy.png)
 
 ### Prediction Example
 
-![Prediction](images/prediction.png)
+(images/prediction.png)
 
 ### Test Image
 
-![Test Image](images/test image.png)
+(images/test image.png)
 
 ---
 
