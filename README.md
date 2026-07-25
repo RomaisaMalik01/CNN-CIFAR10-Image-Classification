@@ -78,38 +78,25 @@ The project evaluates the model using:
 
 ---
 
-## Project Screenshots
-
 ### Dataset Sample
 
-(images/Dataset download.png)
+![Dataset](images/Dataset download.png)
 
 ### CNN Classes
 
-(images/classes.png)
+![classes](images/classes.png)
 
 ### Feature Maps
 
-(images/feature map.png)
+![feature Maps](images/feature map.png)
 
 ### Training Accuracy
 
-(images/Accuracy with augmentation.png)
+![training Accuracy](images/Accuracy with augmentation.png)
 
 ### Test Accuracy
 
-(images/test accuracy.png)
-
-### Prediction Example
-
-(images/prediction.png)
-
-### Test Image
-
-(images/test image.png)
-
----
-
+![test Accuracy](images/test accuracy.png)
 ## How to Run
 
 ### Clone Repository
