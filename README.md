@@ -88,15 +88,15 @@ The project evaluates the model using:
 
 ### Feature Maps
 
-![feature Maps](images/feature map.png)
+![feature map](images/feature map.png)
 
 ### Training Accuracy
 
-![training Accuracy](images/Accuracy with augmentation.png)
+![Accuracy with augmentation](images/Accuracy with augmentation.png)
 
 ### Test Accuracy
 
-![test Accuracy](images/test accuracy.png)
+![test accuracy](images/test accuracy.png)
 ## How to Run
 
 ### Clone Repository
