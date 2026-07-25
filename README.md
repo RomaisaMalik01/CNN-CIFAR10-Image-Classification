@@ -43,8 +43,6 @@ Testing Images: **10,000**
 - Scikit-learn
 - Google Colab
 
----
-
 ##  CNN Architecture
 
 The model includes:
@@ -56,8 +54,6 @@ The model includes:
 - Flatten Layer
 - Dense Layers
 - Softmax Output Layer
-
----
 
 ##  Model Evaluation
 
