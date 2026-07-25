@@ -4,8 +4,6 @@
 
 This project implements a **Convolutional Neural Network (CNN)** for image classification using the **CIFAR-10** dataset with **TensorFlow** and **Keras**. The model is trained to classify images into one of the 10 object categories.
 
----
-
 ##  Objectives
 
 - Build a CNN from scratch
@@ -13,8 +11,6 @@ This project implements a **Convolutional Neural Network (CNN)** for image class
 - Evaluate model performance
 - Visualize training results
 - Test predictions on unseen images
-
----
 
 ## Dataset
 
@@ -36,8 +32,6 @@ The dataset contains **60,000 color images** of size **32×32** belonging to **1
 Training Images: **50,000**
 
 Testing Images: **10,000**
-
----
 
 ##  Technologies Used
 
@@ -76,27 +70,10 @@ The project evaluates the model using:
 - Prediction Confidence
 
 
----
-
-### Dataset Sample
-
-![Dataset](images/Dataset download.png)
-
 ### CNN Classes
 
 ![classes](images/classes.png)
 
-### Feature Maps
-
-![feature map](images/feature map.png)
-
-### Training Accuracy
-
-![Accuracy with augmentation](images/Accuracy with augmentation.png)
-
-### Test Accuracy
-
-![test accuracy](images/test accuracy.png)
 ## How to Run
 
 ### Clone Repository
@@ -110,12 +87,9 @@ git clone https://github.com/RomaisaMalik01/CNN-CIFAR10-Image-Classification.git
 ```bash
 pip install -r requirements.txt
 ```
-
 ### Run Notebook
 
 Open the notebook in **Jupyter Notebook** or **Google Colab** and run all cells.
-
----
 
 ## Repository Structure
 
@@ -136,13 +110,9 @@ CNN-CIFAR10-Image-Classification/
     └── test_image.png
 ```
 
----
-
 ## Results
 
 The CNN model successfully learned meaningful image features and achieved strong classification performance on the CIFAR-10 dataset.
-
----
 
 ## Future Improvements
 
@@ -151,8 +121,6 @@ The CNN model successfully learned meaningful image features and achieved strong
 - DenseNet201
 - EfficientNet
 - Model Deployment with Streamlit
-
----
 
 ## Author
 
