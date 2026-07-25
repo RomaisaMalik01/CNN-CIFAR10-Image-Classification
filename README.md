@@ -82,7 +82,7 @@ The project evaluates the model using:
 
 ### Dataset Sample
 
-![Dataset](images/dataset download.png)
+![Dataset](images/Dataset download.png)
 
 ### CNN Classes
 
@@ -94,7 +94,7 @@ The project evaluates the model using:
 
 ### Training Accuracy
 
-![Training Accuracy](images/accuracy with augmentation.png)
+![Training Accuracy](images/Accuracy with augmentation.png)
 
 ### Test Accuracy
 
