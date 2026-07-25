@@ -16,7 +16,7 @@ This project implements a **Convolutional Neural Network (CNN)** for image class
 
 ---
 
-## 📂 Dataset
+## Dataset
 
 **Dataset:** CIFAR-10
 
@@ -82,7 +82,7 @@ The project evaluates the model using:
 
 ### Dataset Sample
 
-![Dataset](images/dataset_download.png)
+![Dataset](images/dataset download.png)
 
 ### CNN Classes
 
@@ -90,15 +90,15 @@ The project evaluates the model using:
 
 ### Feature Maps
 
-![Feature Maps](images/feature_map.png)
+![Feature Maps](images/feature map.png)
 
 ### Training Accuracy
 
-![Training Accuracy](images/accuracy_with_augmentation.png)
+![Training Accuracy](images/accuracy with augmentation.png)
 
 ### Test Accuracy
 
-![Test Accuracy](images/test_accuracy.png)
+![Test Accuracy](images/test accuracy.png)
 
 ### Prediction Example
 
@@ -106,7 +106,7 @@ The project evaluates the model using:
 
 ### Test Image
 
-![Test Image](images/test_image.png)
+![Test Image](images/test image.png)
 
 ---
 
